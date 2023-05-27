@@ -1,0 +1,15 @@
+C:\Users\andri\OneDrive - ku.lt\Uni_HomeWork\2_Kursas_4_Pusmetis\dotNET\1_praktinis\14_uzd\14_uzd\bin\Debug\net7.0\14_uzd.exe
+C:\Users\andri\OneDrive - ku.lt\Uni_HomeWork\2_Kursas_4_Pusmetis\dotNET\1_praktinis\14_uzd\14_uzd\bin\Debug\net7.0\14_uzd.deps.json
+C:\Users\andri\OneDrive - ku.lt\Uni_HomeWork\2_Kursas_4_Pusmetis\dotNET\1_praktinis\14_uzd\14_uzd\bin\Debug\net7.0\14_uzd.runtimeconfig.json
+C:\Users\andri\OneDrive - ku.lt\Uni_HomeWork\2_Kursas_4_Pusmetis\dotNET\1_praktinis\14_uzd\14_uzd\bin\Debug\net7.0\14_uzd.dll
+C:\Users\andri\OneDrive - ku.lt\Uni_HomeWork\2_Kursas_4_Pusmetis\dotNET\1_praktinis\14_uzd\14_uzd\bin\Debug\net7.0\14_uzd.pdb
+C:\Users\andri\OneDrive - ku.lt\Uni_HomeWork\2_Kursas_4_Pusmetis\dotNET\1_praktinis\14_uzd\14_uzd\obj\Debug\net7.0\14_uzd.csproj.AssemblyReference.cache
+C:\Users\andri\OneDrive - ku.lt\Uni_HomeWork\2_Kursas_4_Pusmetis\dotNET\1_praktinis\14_uzd\14_uzd\obj\Debug\net7.0\14_uzd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andri\OneDrive - ku.lt\Uni_HomeWork\2_Kursas_4_Pusmetis\dotNET\1_praktinis\14_uzd\14_uzd\obj\Debug\net7.0\14_uzd.AssemblyInfoInputs.cache
+C:\Users\andri\OneDrive - ku.lt\Uni_HomeWork\2_Kursas_4_Pusmetis\dotNET\1_praktinis\14_uzd\14_uzd\obj\Debug\net7.0\14_uzd.AssemblyInfo.cs
+C:\Users\andri\OneDrive - ku.lt\Uni_HomeWork\2_Kursas_4_Pusmetis\dotNET\1_praktinis\14_uzd\14_uzd\obj\Debug\net7.0\14_uzd.csproj.CoreCompileInputs.cache
+C:\Users\andri\OneDrive - ku.lt\Uni_HomeWork\2_Kursas_4_Pusmetis\dotNET\1_praktinis\14_uzd\14_uzd\obj\Debug\net7.0\14_uzd.dll
+C:\Users\andri\OneDrive - ku.lt\Uni_HomeWork\2_Kursas_4_Pusmetis\dotNET\1_praktinis\14_uzd\14_uzd\obj\Debug\net7.0\refint\14_uzd.dll
+C:\Users\andri\OneDrive - ku.lt\Uni_HomeWork\2_Kursas_4_Pusmetis\dotNET\1_praktinis\14_uzd\14_uzd\obj\Debug\net7.0\14_uzd.pdb
+C:\Users\andri\OneDrive - ku.lt\Uni_HomeWork\2_Kursas_4_Pusmetis\dotNET\1_praktinis\14_uzd\14_uzd\obj\Debug\net7.0\14_uzd.genruntimeconfig.cache
+C:\Users\andri\OneDrive - ku.lt\Uni_HomeWork\2_Kursas_4_Pusmetis\dotNET\1_praktinis\14_uzd\14_uzd\obj\Debug\net7.0\ref\14_uzd.dll

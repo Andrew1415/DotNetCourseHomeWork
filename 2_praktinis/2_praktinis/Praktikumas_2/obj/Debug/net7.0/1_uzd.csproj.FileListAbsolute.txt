@@ -1,0 +1,17 @@
+C:\Users\andri\OneDrive - ku.lt\Uni_HomeWork\2_Kursas_4_Pusmetis\dotNET\2_praktinis\1_uzd\Praktikumas_2\obj\Debug\net7.0\1_uzd.csproj.AssemblyReference.cache
+C:\Users\andri\OneDrive - ku.lt\Uni_HomeWork\2_Kursas_4_Pusmetis\dotNET\2_praktinis\1_uzd\Praktikumas_2\obj\Debug\net7.0\1_uzd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andri\OneDrive - ku.lt\Uni_HomeWork\2_Kursas_4_Pusmetis\dotNET\2_praktinis\1_uzd\Praktikumas_2\obj\Debug\net7.0\1_uzd.AssemblyInfoInputs.cache
+C:\Users\andri\OneDrive - ku.lt\Uni_HomeWork\2_Kursas_4_Pusmetis\dotNET\2_praktinis\1_uzd\Praktikumas_2\obj\Debug\net7.0\1_uzd.AssemblyInfo.cs
+C:\Users\andri\OneDrive - ku.lt\Uni_HomeWork\2_Kursas_4_Pusmetis\dotNET\2_praktinis\1_uzd\Praktikumas_2\obj\Debug\net7.0\1_uzd.csproj.CoreCompileInputs.cache
+C:\Users\andri\OneDrive - ku.lt\Uni_HomeWork\2_Kursas_4_Pusmetis\dotNET\2_praktinis\1_uzd\Praktikumas_2\bin\Debug\net7.0\1_uzd.exe
+C:\Users\andri\OneDrive - ku.lt\Uni_HomeWork\2_Kursas_4_Pusmetis\dotNET\2_praktinis\1_uzd\Praktikumas_2\bin\Debug\net7.0\1_uzd.deps.json
+C:\Users\andri\OneDrive - ku.lt\Uni_HomeWork\2_Kursas_4_Pusmetis\dotNET\2_praktinis\1_uzd\Praktikumas_2\bin\Debug\net7.0\1_uzd.runtimeconfig.json
+C:\Users\andri\OneDrive - ku.lt\Uni_HomeWork\2_Kursas_4_Pusmetis\dotNET\2_praktinis\1_uzd\Praktikumas_2\bin\Debug\net7.0\1_uzd.dll
+C:\Users\andri\OneDrive - ku.lt\Uni_HomeWork\2_Kursas_4_Pusmetis\dotNET\2_praktinis\1_uzd\Praktikumas_2\bin\Debug\net7.0\1_uzd.pdb
+C:\Users\andri\OneDrive - ku.lt\Uni_HomeWork\2_Kursas_4_Pusmetis\dotNET\2_praktinis\1_uzd\Praktikumas_2\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Users\andri\OneDrive - ku.lt\Uni_HomeWork\2_Kursas_4_Pusmetis\dotNET\2_praktinis\1_uzd\Praktikumas_2\obj\Debug\net7.0\1_uzd.csproj.CopyComplete
+C:\Users\andri\OneDrive - ku.lt\Uni_HomeWork\2_Kursas_4_Pusmetis\dotNET\2_praktinis\1_uzd\Praktikumas_2\obj\Debug\net7.0\1_uzd.dll
+C:\Users\andri\OneDrive - ku.lt\Uni_HomeWork\2_Kursas_4_Pusmetis\dotNET\2_praktinis\1_uzd\Praktikumas_2\obj\Debug\net7.0\refint\1_uzd.dll
+C:\Users\andri\OneDrive - ku.lt\Uni_HomeWork\2_Kursas_4_Pusmetis\dotNET\2_praktinis\1_uzd\Praktikumas_2\obj\Debug\net7.0\1_uzd.pdb
+C:\Users\andri\OneDrive - ku.lt\Uni_HomeWork\2_Kursas_4_Pusmetis\dotNET\2_praktinis\1_uzd\Praktikumas_2\obj\Debug\net7.0\1_uzd.genruntimeconfig.cache
+C:\Users\andri\OneDrive - ku.lt\Uni_HomeWork\2_Kursas_4_Pusmetis\dotNET\2_praktinis\1_uzd\Praktikumas_2\obj\Debug\net7.0\ref\1_uzd.dll

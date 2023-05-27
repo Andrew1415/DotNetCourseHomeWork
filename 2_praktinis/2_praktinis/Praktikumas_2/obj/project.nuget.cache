@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "sPyTOhMcAjsLsp8CjeMIyDbhl8K7gZYhvrLi5ILGddUTfG3UJX3OX8qCvxrlOi+8NJt91856SZoaZA1riZF+Kg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\andri\\OneDrive - ku.lt\\Uni_HomeWork\\2_Kursas_4_Pusmetis\\dotNET\\2_praktinis\\2_praktinis\\Praktikumas_2\\1_uzd.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\andri\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

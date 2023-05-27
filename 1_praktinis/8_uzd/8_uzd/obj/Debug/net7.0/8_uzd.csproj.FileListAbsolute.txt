@@ -1,0 +1,15 @@
+C:\Users\andri\OneDrive - ku.lt\Uni_HomeWork\2_Kursas_4_Pusmetis\dotNET\1_praktinis\8_uzd\8_uzd\bin\Debug\net7.0\8_uzd.exe
+C:\Users\andri\OneDrive - ku.lt\Uni_HomeWork\2_Kursas_4_Pusmetis\dotNET\1_praktinis\8_uzd\8_uzd\bin\Debug\net7.0\8_uzd.deps.json
+C:\Users\andri\OneDrive - ku.lt\Uni_HomeWork\2_Kursas_4_Pusmetis\dotNET\1_praktinis\8_uzd\8_uzd\bin\Debug\net7.0\8_uzd.runtimeconfig.json
+C:\Users\andri\OneDrive - ku.lt\Uni_HomeWork\2_Kursas_4_Pusmetis\dotNET\1_praktinis\8_uzd\8_uzd\bin\Debug\net7.0\8_uzd.dll
+C:\Users\andri\OneDrive - ku.lt\Uni_HomeWork\2_Kursas_4_Pusmetis\dotNET\1_praktinis\8_uzd\8_uzd\bin\Debug\net7.0\8_uzd.pdb
+C:\Users\andri\OneDrive - ku.lt\Uni_HomeWork\2_Kursas_4_Pusmetis\dotNET\1_praktinis\8_uzd\8_uzd\obj\Debug\net7.0\8_uzd.csproj.AssemblyReference.cache
+C:\Users\andri\OneDrive - ku.lt\Uni_HomeWork\2_Kursas_4_Pusmetis\dotNET\1_praktinis\8_uzd\8_uzd\obj\Debug\net7.0\8_uzd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andri\OneDrive - ku.lt\Uni_HomeWork\2_Kursas_4_Pusmetis\dotNET\1_praktinis\8_uzd\8_uzd\obj\Debug\net7.0\8_uzd.AssemblyInfoInputs.cache
+C:\Users\andri\OneDrive - ku.lt\Uni_HomeWork\2_Kursas_4_Pusmetis\dotNET\1_praktinis\8_uzd\8_uzd\obj\Debug\net7.0\8_uzd.AssemblyInfo.cs
+C:\Users\andri\OneDrive - ku.lt\Uni_HomeWork\2_Kursas_4_Pusmetis\dotNET\1_praktinis\8_uzd\8_uzd\obj\Debug\net7.0\8_uzd.csproj.CoreCompileInputs.cache
+C:\Users\andri\OneDrive - ku.lt\Uni_HomeWork\2_Kursas_4_Pusmetis\dotNET\1_praktinis\8_uzd\8_uzd\obj\Debug\net7.0\8_uzd.dll
+C:\Users\andri\OneDrive - ku.lt\Uni_HomeWork\2_Kursas_4_Pusmetis\dotNET\1_praktinis\8_uzd\8_uzd\obj\Debug\net7.0\refint\8_uzd.dll
+C:\Users\andri\OneDrive - ku.lt\Uni_HomeWork\2_Kursas_4_Pusmetis\dotNET\1_praktinis\8_uzd\8_uzd\obj\Debug\net7.0\8_uzd.pdb
+C:\Users\andri\OneDrive - ku.lt\Uni_HomeWork\2_Kursas_4_Pusmetis\dotNET\1_praktinis\8_uzd\8_uzd\obj\Debug\net7.0\8_uzd.genruntimeconfig.cache
+C:\Users\andri\OneDrive - ku.lt\Uni_HomeWork\2_Kursas_4_Pusmetis\dotNET\1_praktinis\8_uzd\8_uzd\obj\Debug\net7.0\ref\8_uzd.dll
